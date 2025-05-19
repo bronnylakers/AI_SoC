@@ -10,5 +10,5 @@ else
 		git commit -m "업로드:$1"
 fi
 
-git push origin 0main
+git push origin main
 
