@@ -1,0 +1,15 @@
+echo "Hello world"
+
+MyName="BumSikSim"
+MyNumber="1010-2223-3211"
+MyAdd="Korea"
+
+echo $MyName $MyNumber
+
+#cmd a1 a2 a3
+# $$ S1 S2 S3
+
+echo "명령어 : "$$
+echo "인수 1 : "$1
+echo "인수 2 : "$2
+echo "인수 3 : "$3
